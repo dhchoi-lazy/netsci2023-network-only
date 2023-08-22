@@ -44,7 +44,6 @@ export default function Gyeyu() {
 
   return (
     <>
-      <h2>Constructing a social network and identifying key figures</h2>
       <div
         style={{
           // maxWidth: "800px",

@@ -26,8 +26,8 @@ export default function Method() {
           <Gyeyu />
         </GridHighlight>
         <GridNormal>
+          <img width={300} src={NetworkBar} />
           <div style={{ display: "flex" }}>
-            <img width={300} src={NetworkBar} />
             <ul>
               <li>
                 Prince Suyang, who was an uncle, deposed his 11-year-old nephew,
