@@ -41,13 +41,13 @@ function App() {
         <meta name="theme-color" content="#ffffff"></meta>
       </HelmetProvider>
       <Layout>
-        <Header />
-        <Introduction />
-        <Data />
+        {/* <Header /> */}
+        {/* <Introduction /> */}
+        {/* <Data /> */}
         <Method />
-        <Psi />
-        <Conclusion />
-        <Footer />
+        {/* <Psi /> */}
+        {/* <Conclusion /> */}
+        {/* <Footer /> */}
       </Layout>
     </div>
   );

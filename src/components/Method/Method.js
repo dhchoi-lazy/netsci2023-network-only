@@ -8,7 +8,7 @@ export default function Method() {
   return (
     <section id="method">
       <GridContainer>
-        <GridNormal>
+        {/* <GridNormal>
           <h1>3. Method</h1>
           <h3>
             Who succeeded matters in history. How can we measure how successful
@@ -21,7 +21,7 @@ export default function Method() {
               the Yangban
             </li>
           </ol>
-        </GridNormal>
+        </GridNormal> */}
         <GridHighlight>
           <Gyeyu />
         </GridHighlight>
@@ -65,7 +65,7 @@ export default function Method() {
             aftermath using network analysis.
           </p>
         </GridNormal>
-        <GridNormal>
+        {/* <GridNormal>
           <h3>
             Creating a universally accepted metric to quantify the success of
             the Yangban
@@ -75,7 +75,7 @@ export default function Method() {
         <GridHighlight>
           <h1>Constructed Yangban Career Trajectories</h1>
           <img src={ct} width="100%" style={{ margin: "0 auto" }} />
-        </GridHighlight>
+        </GridHighlight> */}
       </GridContainer>
     </section>
   );
